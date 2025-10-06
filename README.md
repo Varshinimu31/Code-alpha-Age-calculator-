@@ -20,9 +20,3 @@ How to Use
 1. Open `age-calculator.html` in any web browser.  
 2. Enter your **date of birth**.  
 3. Click **“Calculate”** — your exact age will appear instantly!
-
-Demo
-
-You can try it live here
-[Live Demo] https://github.com/Varshinimu31/Code-alpha-Age-calculator-.git
-
