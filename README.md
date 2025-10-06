@@ -14,8 +14,12 @@ What I Learned
 - Performing **form validation** and **error handling**  
 - Using **DOM manipulation** to show dynamic results  
 - Styling forms and layouts using **CSS Flexbox**
+  
+How to Use
 
----
+1. Open `age-calculator.html` in any web browser.  
+2. Enter your **date of birth**.  
+3. Click **“Calculate”** — your exact age will appear instantly!
 
 Demo
 
